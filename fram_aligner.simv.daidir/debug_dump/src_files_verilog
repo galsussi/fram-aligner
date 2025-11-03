@@ -1,0 +1,13 @@
+/users/pd23/Desktop/module/fram_aligner/dv/driver.sv
+/users/pd23/Desktop/module/fram_aligner/dv/environment.sv
+/users/pd23/Desktop/module/fram_aligner/dv/generator.sv
+/users/pd23/Desktop/module/fram_aligner/dv/inf.sv
+/users/pd23/Desktop/module/fram_aligner/dv/inf_scb.sv
+/users/pd23/Desktop/module/fram_aligner/dv/monitor_in.sv
+/users/pd23/Desktop/module/fram_aligner/dv/monitor_out.sv
+/users/pd23/Desktop/module/fram_aligner/dv/scoreboard.sv
+/users/pd23/Desktop/module/fram_aligner/dv/test.sv
+/users/pd23/Desktop/module/fram_aligner/dv/top.sv
+/users/pd23/Desktop/module/fram_aligner/dv/transaction_in.sv
+/users/pd23/Desktop/module/fram_aligner/dv/transaction_out.sv
+/users/pd23/Desktop/module/fram_aligner/rtl/frame_aligner.v

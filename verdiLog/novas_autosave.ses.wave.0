@@ -1,0 +1,69 @@
+Magic 271485
+Revision Verdi_S-2021.09-SP1
+
+; Window Layout <x> <y> <width> <height> <signalwidth> <valuewidth>
+viewPort 0 25 1920 537 152 65
+
+; File list:
+; openDirFile [-d delimiter] [-s time_offset] [-rf auto_bus_rule_file] path_name file_name
+openDirFile -d / "" "/users/pd23/Desktop/module/fram_aligner/fram_aligner.fsdb"
+
+; file time scale:
+; fileTimeScale ### s|ms|us|ns|ps
+
+; signal spacing:
+signalSpacing 5
+
+; windowTimeUnit is used for zoom, cursor & marker
+; waveform viewport range
+zoom 23.799890 200.044890
+cursor 40.000000
+marker 0.000000
+
+; user define markers
+; userMarker time_pos marker_name color linestyle
+; visible top row signal index
+top 0
+; marker line index
+markerPos 16
+
+; event list
+; addEvent event_name event_expression
+; curEvent event_name
+
+
+
+COMPLEX_EVENT_BEGIN
+
+
+COMPLEX_EVENT_END
+
+
+
+; toolbar current search type
+; curSTATUS search_type
+curSTATUS ByChange
+
+
+addGroup "i_inf(inf)"
+activeDirFile "" "/users/pd23/Desktop/module/fram_aligner/fram_aligner.fsdb"
+addSignal -h 15 /top/i_inf/clk
+addSignal -h 15 -holdScope rst
+addSignal -h 15 -holdScope fr_byte_position[3:0]
+addSignal -h 15 -holdScope frame_detect
+addSignal -h 15 -holdScope rx_data[7:0]
+addGroup "i_inf_scb(inf_scb)"
+addSignal -h 15 /top/i_inf_scb/clk
+addSignal -h 15 -holdScope rst
+addSignal -h 15 -holdScope ref_fr_byte_position[3:0]
+addSignal -h 15 -holdScope ref_frame_detect
+addSignal -h 15 -holdScope rx_data[7:0]
+addSignal -h 15 -holdScope good_cnt[31:0]
+addSignal -h 15 -holdScope bad_cnt[31:0]
+addSignal -h 15 -holdScope payload_wait[31:0]
+addSignal -h 15 -holdScope num_transaction[31:0]
+addGroup "G3"
+
+; getSignalForm Scope Hierarchy Status
+; active file of getSignalForm
+

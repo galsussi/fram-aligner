@@ -1,0 +1,43 @@
+פקודות שימושיות
+
+
+compile:
+vcs -sverilog -full64 -o fram_aligner.simv -V -kdb -f fram_aligner.fl -debug_access+all &
+
+run batch:
+./fram_aligner.simv -ucli -do run.do &
+
+open waves:
+
+verdi -ssf fram_aligner.fsdb &
+
+
+run interactive:
+./fram_aligner -verdi &
+
+
+קומפילציה עם תמיכת Coverage
+
+vcs -sverilog -full64 -debug_access+all \
+-cm line+cond+fsm+tgl+branch \
+-f file_list.f -top top -o simv_cov | tee compile.log
+
+
+הרצת הסימולציה עם איסוף Coverage
+
+
+./simv_cov \
+-cm line+cond+fsm+tgl+branch \
+-cm_dir cov_work.vdb \
+-cm_name test1 \
+-cm_log coverage.log
+
+
+
+יצירת דוח Coverage (Structural + Functional)
+
+urg -dir simv_cov.vdb cov_work.vdb -format both -report coverage_report_final
+
+צפייה בדוח
+
+firefox coverage_report_final/dashboard.html &

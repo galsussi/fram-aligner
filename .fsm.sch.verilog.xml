@@ -1,0 +1,8 @@
+<Command name="schRTLInfo"  delimiter="."  >
+<RTLBlock >
+<RTLInfo   name="current_state_0"  type="2"  fileName="rtl/frame_aligner.v"  >
+    <Seg beginLine="47"  endLine="95"  />
+  </RTLInfo>
+<Instance name="top.dut"  />
+</RTLBlock>
+</Command>

@@ -1,0 +1,395 @@
+global coverage_group 0 $unit::driver::cg_header_type __coverage_driver.cg_header_type unused_driver_cg_header_type_loop_label $unit 0 1 0 1 $unit::dv/driver.sv::dv/environment.sv...@1848896003 0  ( 0 
+)
+ 1 3
+ 52 /users/pd23/Desktop/module/fram_aligner/dv/driver.sv
+ 57 /users/pd23/Desktop/module/fram_aligner/dv/monitor_out.sv
+ 56 /users/pd23/Desktop/module/fram_aligner/dv/scoreboard.sv
+ 7 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+1
+0
+0
+0
+ 17 trans.header_type 9 0 0 0 0 0 54 driver::_vcs_unit__1848896003_driver_cg_header_type_fn 54 driver::_vcs_unit__1848896003_driver_cg_header_type_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 7 4 1 36 _vcs_unit__1848896003::header_type_t 1 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 7 1 1 0 0 1 1 6 HEAD_1 10 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 56 driver::_vcs_unit__1848896003_driver_cg_header_type_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 6 HEAD_2 11 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 56 driver::_vcs_unit__1848896003_driver_cg_header_type_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 HEAD_TEST1 12 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 56 driver::_vcs_unit__1848896003_driver_cg_header_type_fn_2 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 HEAD_TEST2 13 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 56 driver::_vcs_unit__1848896003_driver_cg_header_type_fn_3 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 HEAD_TEST3 14 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 56 driver::_vcs_unit__1848896003_driver_cg_header_type_fn_4 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 HEAD_TEST4 15 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 56 driver::_vcs_unit__1848896003_driver_cg_header_type_fn_5 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 ILLEGAL 16 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 56 driver::_vcs_unit__1848896003_driver_cg_header_type_fn_6 0 0 0 0 0 0 0
+ 0
+
+end_coverage_group
+global coverage_group 0 $unit::driver::cg_header_transition_zero2one __coverage_driver.cg_header_transition_zero2one unused_driver_cg_header_transition_zero2one_loop_label $unit 0 0 0 1 $unit::dv/driver.sv::dv/environment.sv...@1848896003 0  ( 0 
+)
+ 0 22 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+1
+0
+0
+0
+ 17 trans.header_type 23 0 0 0 0 0 69 driver::_vcs_unit__1848896003_driver_cg_header_transition_zero2one_fn 69 driver::_vcs_unit__1848896003_driver_cg_header_transition_zero2one_fn 0 0 0 0 0 0 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_zero2one_fn_0 0 0 0 0 -1 0 0 -1 0 0 0 -1 7 4 1 36 _vcs_unit__1848896003::header_type_t 1 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3 1 4 0 0 1 1 7 head1X3 24 0 0 4 0 -1 0 0 0 0 0 0 1 1 0 1 0 0 -1 0 4 0 1 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_zero2one_fn_2 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_zero2one_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 4 0 0 1 1 7 head2X3 25 0 0 4 0 -1 0 0 0 0 0 0 1 1 0 1 0 0 -1 0 4 0 1 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_zero2one_fn_2 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_zero2one_fn_3 0 0 0 0 0 0 0
+ 0
+ 1 4 1 0 1 1 8 head_mix 29 0 1 4 0 0 0 -1 0 0 0 0 0 0 4 3 0 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_zero2one_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_zero2one_fn_3 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_zero2one_fn_1 0 0 0 0 0 0 0
+ 0
+ 3 0 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_zero2one_fn_3 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_zero2one_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_zero2one_fn_3 0 0 0 0 0 0 0
+ 0
+ 3 0 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_zero2one_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_zero2one_fn_3 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_zero2one_fn_3 0 0 0 0 0 0 0
+ 0
+ 3 0 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_zero2one_fn_3 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_zero2one_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 0 0 -1 0 4 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_zero2one_fn_1 0 0 0 0 0 0 0
+ 0
+
+end_coverage_group
+global coverage_group 0 $unit::driver::cg_header_transition_one2zero __coverage_driver.cg_header_transition_one2zero unused_driver_cg_header_transition_one2zero_loop_label $unit 0 0 0 1 $unit::dv/driver.sv::dv/environment.sv...@1848896003 0  ( 0 
+)
+ 0 34 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+1
+0
+0
+0
+ 17 trans.header_type 36 0 0 0 0 0 69 driver::_vcs_unit__1848896003_driver_cg_header_transition_one2zero_fn 69 driver::_vcs_unit__1848896003_driver_cg_header_transition_one2zero_fn 0 0 0 0 0 0 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_one2zero_fn_0 0 0 0 0 -1 0 0 -1 0 0 0 -1 7 4 1 36 _vcs_unit__1848896003::header_type_t 1 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3 1 4 0 0 1 1 9 illegalX4 37 0 0 4 0 -1 0 0 0 0 0 0 1 1 0 1 0 0 -1 0 4 0 1 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_one2zero_fn_2 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_one2zero_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 4 0 0 1 1 14 random_start_1 38 0 0 4 0 -1 0 0 0 0 0 0 1 1 0 1 0 0 -1 0 4 0 1 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_one2zero_fn_2 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_one2zero_fn_3 0 0 0 0 0 0 0
+ 0
+ 1 4 0 0 1 1 14 random_start_2 39 0 0 4 0 -1 0 0 0 0 0 0 1 1 0 1 0 0 -1 0 4 0 1 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_one2zero_fn_2 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 71 driver::_vcs_unit__1848896003_driver_cg_header_transition_one2zero_fn_3 0 0 0 0 0 0 0
+ 0
+
+end_coverage_group
+global coverage_group 0 $unit::monitor_out::cg_mon_out __coverage_monitor_out.cg_mon_out unused_monitor_out_cg_mon_out_loop_label $unit 0 1 0 1 $unit::dv/driver.sv::dv/environment.sv...@1848896003 0  ( 0 
+)
+ 0 11 1 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+2
+0
+1
+0
+ 17 vinf.frame_detect 13 1 0 1 0 0 60 monitor_out::_vcs_unit__1848896003_monitor_out_cg_mon_out_fn 60 monitor_out::_vcs_unit__1848896003_monitor_out_cg_mon_out_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 1 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 21 vinf.fr_byte_position 13 1 0 1 0 0 62 monitor_out::_vcs_unit__1848896003_monitor_out_cg_mon_out_fn_0 62 monitor_out::_vcs_unit__1848896003_monitor_out_cg_mon_out_fn_0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 4 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 13 cg_mon_out_cc 0 13 1 0 -1 0 0 0 0 2 0 1 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+end_coverage_group
+global coverage_group 0 $unit::scoreboard::cg_FSM_SCB __coverage_scoreboard.cg_FSM_SCB unused_scoreboard_cg_FSM_SCB_loop_label $unit 0 1 0 1 $unit::dv/driver.sv::dv/environment.sv...@1848896003 0  ( 0 
+)
+ 0 24 2 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+2
+0
+1
+0
+ 4 flag 25 2 0 0 0 0 58 scoreboard::_vcs_unit__1848896003_scoreboard_cg_FSM_SCB_fn 58 scoreboard::_vcs_unit__1848896003_scoreboard_cg_FSM_SCB_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 7 3 1 29 _vcs_unit__1848896003::flag_t 1 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 7 1 1 0 0 1 1 6 HEAD_1 26 2 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 60 scoreboard::_vcs_unit__1848896003_scoreboard_cg_FSM_SCB_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 6 HEAD_2 27 2 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 60 scoreboard::_vcs_unit__1848896003_scoreboard_cg_FSM_SCB_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 HEAD_TEST1 28 2 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 60 scoreboard::_vcs_unit__1848896003_scoreboard_cg_FSM_SCB_fn_2 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 HEAD_TEST2 29 2 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 60 scoreboard::_vcs_unit__1848896003_scoreboard_cg_FSM_SCB_fn_3 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 HEAD_TEST3 30 2 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 60 scoreboard::_vcs_unit__1848896003_scoreboard_cg_FSM_SCB_fn_4 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 HEAD_TEST4 31 2 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 60 scoreboard::_vcs_unit__1848896003_scoreboard_cg_FSM_SCB_fn_5 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 ILLEGAL 32 2 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 60 scoreboard::_vcs_unit__1848896003_scoreboard_cg_FSM_SCB_fn_6 0 0 0 0 0 0 0
+ 0
+
+ 5 state 35 2 0 0 0 0 60 scoreboard::_vcs_unit__1848896003_scoreboard_cg_FSM_SCB_fn_7 60 scoreboard::_vcs_unit__1848896003_scoreboard_cg_FSM_SCB_fn_7 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 7 2 1 34 _vcs_unit__1848896003::ref_state_t 1 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3 1 1 0 0 1 1 4 HLSB 36 2 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 60 scoreboard::_vcs_unit__1848896003_scoreboard_cg_FSM_SCB_fn_8 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 4 HMSB 37 2 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 60 scoreboard::_vcs_unit__1848896003_scoreboard_cg_FSM_SCB_fn_9 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 12 WAIT_PAYLOAD 38 2 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 60 scoreboard::_vcs_unit__1848896003_scoreboard_cg_FSM_SCB_fn_a 0 0 0 0 0 0 0
+ 0
+
+ 13 cg_FSM_SCB_cc 0 41 2 0 -1 0 0 0 0 2 0 1 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+end_coverage_group

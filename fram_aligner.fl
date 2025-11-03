@@ -1,0 +1,18 @@
+# ---------- RTL ----------
+
+rtl/frame_aligner.v
+
+
+# ---------- DV ----------
+dv/inf.sv
+dv/inf_scb.sv
+dv/transaction_in.sv
+dv/transaction_out.sv
+dv/generator.sv
+dv/driver.sv
+dv/monitor_in.sv
+dv/monitor_out.sv
+dv/scoreboard.sv
+dv/environment.sv
+dv/test.sv
+dv/top.sv   # top testbench

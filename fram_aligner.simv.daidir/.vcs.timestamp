@@ -1,0 +1,144 @@
+0 
+36
++itf+/eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/vcsdp_lite.tab
++vcsd1
++vpi
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -rdynamic
+-Mobjects= /eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/libvirsim.so /eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/liberrorinf.so /eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/libsnpsmalloc.so /eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/libvfs.so
+-Mout=fram_aligner.simv
+-Msaverestoreobj=/eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=/eda/synopsys/2021-22/RHELx86/VERDI_2021.09-SP1//share/PLI/VCS/LINUX64/pli.a -ldl
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/include
+-Mxllcflags=
+-P
+-V
+-Xufe=2steps
+-debug_access+all
+-f fram_aligner.fl
+-fsdb
+-full64
+-gen_obj
+-kdb
+-o fram_aligner.simv
+-picarchive
+-sverilog
+/eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/bin/vcs1
+fram_aligner.simv
+/eda/synopsys/2021-22/RHELx86/VERDI_2021.09-SP1//share/PLI/VCS/LINUX64/verdi.tab
+fram_aligner.fl
+79
+XMODIFIERS=@im=ibus
+XDG_SESSION_ID=2700
+XDG_RUNTIME_DIR=/run/user/4339
+XDG_MENU_PREFIX=gnome-
+XDG_CURRENT_DESKTOP=GNOME
+VTE_VERSION=5204
+VNCDESKTOP=vlsi-ria57:16 (pd23)
+VMR_MODE_FLAG=64
+VERDI_HOME=/eda/synopsys/2021-22/RHELx86/VERDI_2021.09-SP1/
+VERDI3_NEW_INTERACTIVE_DEBUG=
+VENDOR=unknown
+VCS_TARGET_ARCH=amd64
+VCS_PATHMAP_PRELOAD_DONE=1
+VCS_MX_HOME_INTERNAL=1
+VCS_MODE_FLAG=64
+VCS_HOME=/eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/
+VCS_EXEC_DONE=1
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=linux64
+UNAME=/bin/uname
+TOOL_HOME=/eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64
+SYNOPSYS_SYN_ROOT=/eda/synopsys/2021-22/RHELx86/SYN_2021.06-SP4/
+SYNOPSYS_LC_ROOT=/eda/synopsys/2021-22/RHELx86/LC_2021.06-SP4/
+SSH_TTY=/dev/pts/9
+SSH_CONNECTION=132.68.78.135 52782 132.68.59.57 22
+SSH_CLIENT=132.68.78.135 52782 22
+SSH_AUTH_SOCK=/tmp/ssh-H94y2a2WSk1b/agent.19555
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+SSH_AGENT_PID=19656
+SNPS_VERDI_INTERNAL_LP_XML_NEW_FLOW=1
+SNPS_VERDI=/eda/synopsys/2021-22/RHELx86/VERDI_2021.09-SP1/
+SNPS_VCS_CLANG_PATH=/eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1//linux64/clang
+SNPS_SYN=/eda/synopsys/2021-22/RHELx86/SYN_2021.06-SP4/
+SNPS_RTL_ARCH=/eda/synopsys/2021-22/RHELx86/RTL-ARCH_2021.06-SP4/
+SNPS_INTERNAL_VCS_LINUX_OS=linux
+SNPS_EUCLIDE=/eda/synopsys/2021-22/RHELx86/EUCLIDE_2021.09-SP1/
+SKIP_CDS_DIALOG=
+SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/19555,unix/unix:/tmp/.ICE-unix/19555
+SELINUX_USE_CURRENT_RANGE=
+SELINUX_ROLE_REQUESTED=
+SELINUX_LEVEL_REQUESTED=
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+REMOTEHOST=132.68.78.135
+QT_PLUGIN_PATH=/usr/lib64/kde4/plugins:/usr/lib/kde4/plugins
+QT_IM_MODULE=ibus
+QT_GRAPHICSSYSTEM_CHECKED=1
+QTLIB=/usr/lib64/qt-3.3/lib
+QTINC=/usr/lib64/qt-3.3/include
+QTDIR=/usr/lib64/qt-3.3
+PERL_MM_OPT=INSTALL_BASE=/users/pd23/perl5
+PERL_MB_OPT=--install_base /users/pd23/perl5
+PERL_LOCAL_LIB_ROOT=/users/pd23/perl5
+PERL_HOMEDIR=1
+PERL5LIB=/users/pd23/perl5/lib/perl5
+OVA_UUM=0
+OSTYPE=linux
+NOVAS_HOME=/eda/synopsys/2021-22/RHELx86/VERDI_2021.09-SP1/
+MODULESHOME=/usr/share/Modules
+MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles
+LOADEDMODULES=
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LC_ALL=C
+KDEDIRS=/usr
+IMSETTINGS_MODULE=none
+IMSETTINGS_INTEGRATE_DESKTOP=yes
+HOSTTYPE=x86_64-linux
+GROUP=mail
+GNOME_TERMINAL_SERVICE=:1.107
+GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/9fa234aa_a457_4c17_b771_a582e7c485a1
+GNOME_SHELL_SESSION_MODE=classic
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+ECLIPSE_VERSION=4.19
+DBUS_STARTER_BUS_TYPE=session
+DBUS_STARTER_ADDRESS=unix:abstract=/tmp/dbus-JfJAEvltXm,guid=27d1a41abf6a47b56a402d8468ff2765
+DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-JfJAEvltXm,guid=27d1a41abf6a47b56a402d8468ff2765
+CVS_RSH=ssh
+COLORTERM=truecolor
+0
+0
+16
+1760725037 dv/top.sv
+1761578302 dv/test.sv
+1761048676 dv/environment.sv
+1761552483 dv/scoreboard.sv
+1761124963 dv/monitor_out.sv
+1760694140 dv/monitor_in.sv
+1761554194 dv/driver.sv
+1761578283 dv/generator.sv
+1760456757 dv/transaction_out.sv
+1761578441 dv/transaction_in.sv
+1760456687 dv/inf_scb.sv
+1760456513 dv/inf.sv
+1760456509 rtl/frame_aligner.v
+1761152108 fram_aligner.fl
+1638190450 /eda/synopsys/2021-22/RHELx86/VERDI_2021.09-SP1//share/PLI/VCS/LINUX64/verdi.tab
+1638245157 /eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/vcsdp_lite.tab
+4
+1638257447 /eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/libvirsim.so
+1638246089 /eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/liberrorinf.so
+1638245983 /eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/libsnpsmalloc.so
+1638246086 /eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/libvfs.so
+1761578447 fram_aligner.simv.daidir
+-1 partitionlib
