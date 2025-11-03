@@ -1,2 +1,1 @@
-# fram-aligner
-ChatGPT said:  A Frame Aligner synchronizes incoming data streams by detecting specific header patterns within continuous frames. Each frame includes a header marking its start and a payload carrying the data, ensuring proper alignment and reliable data transmission in communication systems.
+A Frame Aligner synchronizes incoming data streams by detecting specific header patterns within continuous frames. Each frame includes a header marking its start and a payload carrying the data, ensuring proper alignment and reliable data transmission in communication systems.
